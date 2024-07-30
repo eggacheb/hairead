@@ -1,6 +1,6 @@
 # hairead
 
-## 一键部署按钮
+## 一键部署
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/eggacheb/hairead)
 
