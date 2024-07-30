@@ -1,5 +1,10 @@
 # hairead
 
+## 一键部署按钮
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/eggacheb/hairead)
+
+
 ## 在vercel中填入环境变量
 
 要在 Vercel 上设置这些环境变量，请按照以下步骤操作：
