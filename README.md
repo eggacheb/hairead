@@ -18,7 +18,7 @@
 
 - Key为你获取到的token，API_URL为你海螺接口地址，填写示例为https://hailuoxxxxxx.onrender.com/v1/audio/speech
 
-- 海螺接口地址请参考https://linux.do/t/topic/108401进行部署
+- 海螺接口地址请参考https://linux.do/t/topic/108401
 
 - 在阅读中的填写示例https://xxxxxx.vercel.app/?text={{speakText}}&speed={{speakSpeed/10}}&voice=YaeMiko_hailuo
 - 由于vercel自带的域名被墙，可以绑自己的域名来避免被墙
