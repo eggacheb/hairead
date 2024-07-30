@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/", "dest": "/api/tts.js" },
+    { "src": "/api/(.*)", "dest": "/api/$1" }
+  ],
+  "functions": {
+    "api/tts.js": {
+      "maxDuration": 60
+    }
+  }
+}

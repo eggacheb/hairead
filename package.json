@@ -1,0 +1,12 @@
+{
+  "name": "hailuo-tts",
+  "version": "1.0.0",
+  "description": "Hailuo TTS API for Vercel",
+  "main": "api/tts.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
