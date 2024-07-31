@@ -2,6 +2,18 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/eggacheb/hairead)
 
+## 接入准备
+
+从 [海螺AI](https://hailuoai.com/) 获取token
+
+进入海螺AI随便发起一个对话，然后F12打开开发者工具，从Application > LocalStorage中找到`_token`的值，这将作为Authorization的Bearer Token值：`Authorization: Bearer TOKEN`
+
+![获取_token](./doc/example-0.png)
+
+### 多账号接入
+
+目前似乎限制同个账号同时只能有*一路*输出，你可以通过提供多个账号的_token
+每次请求服务会从中挑选一个。
 
 ## 在vercel中填入环境变量
 
