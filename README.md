@@ -35,9 +35,12 @@
 
 - 海螺接口地址请参考https://linux.do/t/topic/108401
 
+- 请下载 `httpTts示例.json`用wps或者vs code之类的，把xxxxxx.vercel.app批量替换成你的vercel域名，然后在阅读的朗读设置里选择本地导入选择`httpTts示例.json`，
+  或者在手机中点击`httpTts示例.json`打开方式为阅读这个软件，即可导入到阅读中
 - 在阅读中的填写示例https://xxxxxx.vercel.app/?text={{speakText}}&speed={{speakSpeed/10}}&voice=YaeMiko_hailuo
 - 由于vercel自带的域名被墙，可以绑自己的域名来避免被墙
 - voice为发音人
+
 
 #### voice
 
