@@ -8,7 +8,7 @@
 
 进入海螺AI随便发起一个对话，然后F12打开开发者工具，从Application > LocalStorage中找到`_token`的值，这将作为Authorization的Bearer Token值：`Authorization: Bearer TOKEN`
 
-![获取_token](./doc/example-0.png)
+![获取_token](https://github.com/LLM-Red-Team/hailuo-free-api/blob/master/doc/example-0.png)
 
 ### 多账号接入
 
